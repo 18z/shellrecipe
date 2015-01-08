@@ -3,5 +3,6 @@ install:
   - ./build/install.sh
 script:
   - ./build/build.sh
+  - ./test.sh
 notifications:
   email: false
