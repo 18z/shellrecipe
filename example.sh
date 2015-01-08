@@ -1,4 +1,3 @@
-set -o nounset                              # Treat unset variables as an error
+#!/bin/bash 
 
 echo "1234567"
-
