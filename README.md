@@ -1,1 +1,1 @@
-Shell Recipe
+ShellRecipe
