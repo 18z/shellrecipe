@@ -1,3 +1,6 @@
 [submodule "build"]
 	path = build
-	url = https://github.com/caarlos0/shell-travis-build.git
+	url = https://github.com/deanboole/shell-travis-build.git
+[submodule "shunit2"]
+	path = shunit2
+	url = https://github.com/zandev/shunit2.git
