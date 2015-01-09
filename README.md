@@ -42,6 +42,8 @@ $ git push -u origin master
 ```
 1. Turn on travis ci service in your own shellrecipe repository.
 2. Write shell scripts under shellrecipe folder.
-3. Push scripts to github.
-4. Wait for a moment. And check the build result!
+3. Write test cases in test.sh.
+4. Make sure you chmod +x *.sh
+5. Push scripts to github.
+6. Wait for a moment. And check the build result!
 ```
