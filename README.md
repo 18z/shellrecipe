@@ -33,7 +33,7 @@ $ git clone https://github.com/deanboole/shellrecipe.git
 $ cd shellrecipe
 $ git submodule init
 $ git submodule update
-$ git remote add origin https://github.com/deanboole/test.git
+$ git remote add origin https://github.com/your_account/your_repo.git
 $ git push -u origin master
 ```
 
