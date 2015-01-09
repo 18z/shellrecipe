@@ -16,14 +16,14 @@ Writing reliable scripts needs to take care of at least two things.
 	[Shunit2](https://github.com/zandev/shunit2) is a unit test framework for Bourne based shell scripts.
 
 
-### Shellcheck + Travis-CI = shell-travis-build ###
+### Shellcheck + Travis CI = shell-travis-build ###
 
-It's really exciting to see [caarlos0](https://github.com/caarlos0/shell-travis-build) who integrated travis-ci and sheckcheck. This means everytime when a user pushes to github, shellcheck will be automatically launched to check syntax errors and pitfalls of the scripts submitted or the scripts modified.
+It's really exciting to see [caarlos0](https://github.com/caarlos0/shell-travis-build) who integrated travis ci and sheckcheck. This means everytime when a user pushes to github, shellcheck will be automatically launched to check syntax errors and pitfalls of the scripts submitted or the scripts modified.
 
-### Shellcheck + Shunit2 + Travis-CI = ShellRecipe ###
+### Shellcheck + Shunit2 + Travis CI = ShellRecipe ###
 
 After seeing caarlos0's project, I have an idea to integrate not only shellcheck but also Shunit2 with travis ci.
 
-> So here it is! 
+So here it is! 
 
-**ShellRecipe**!!   A proof of concept.
+**ShellRecipe**!!
