@@ -6,3 +6,4 @@ script:
   - ./test.sh
 notifications:
   email: false
+sudo: required
