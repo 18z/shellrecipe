@@ -1,6 +1,6 @@
 # ShellRecipe
 
-[![Build Status](https://travis-ci.org/deanboole/shellrecipe.svg?branch=master)](https://travis-ci.org/deanboole/shellrecipe)
+[![Build Status](https://travis-ci.org/18z/shellrecipe.svg?branch=master)](https://travis-ci.org/18z/shellrecipe)
 
 ### A decent way to write shell scripts.
 
